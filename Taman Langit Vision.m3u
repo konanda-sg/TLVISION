@@ -9651,7 +9651,7 @@ https://5bf7b725107e5.streamlock.net/radartegaltv/radartegaltv/playlist.m3u8
 #EXTINF:-1 tvg-country="ID" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png" group-title="TV DAERAH",RCTV Cirebon
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="STARA TV" tvg-id="" tvg-logo="https://stream.staratv.id/logo",Stara TV
+#EXTINF:-1 group-title="TV DAERAH" tvg-id="" tvg-logo="https://stream.staratv.id/logo",Stara TV
 https://stream.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:0 tvg-id="1" tvg-logo="https://i.imgur.com/Ti5Muhk.jpg" group-title="MOVIES SUB INDO",ETV BIOSKOP
