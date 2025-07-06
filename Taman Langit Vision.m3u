@@ -9948,3 +9948,11 @@ MISWA TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+"category": "local-tv",
+      "name": "Aliw Channel",
+      "epg_id": "",
+      "drm_type": "clearkey",
+      "drm_key": "31363232303137373937323535313836:3551344768323677674c32704a713249",
+      "icon": "https://i.imgur.com/ZZ9jEoa.png",
+      "url": "http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com"
