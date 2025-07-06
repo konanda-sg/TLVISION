@@ -8920,11 +8920,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS", ASTRO BADMINTON 2
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="ASTRO MALAYSIA", ASTRO FOOTBALL
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="ASTRO MALAYSIA", ASTRO GRANDSTAND
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 ###################################################################################################################################
@@ -9507,28 +9507,28 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-510/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-508/stream.mpd
 
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://barjasetiawan.my.id/logotv/daznwomentsfootball.jpg" group-title="SPORT", DAZN WOMEN'S FOOTBALL
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://barjasetiawan.my.id/logotv/daznwomentsfootball.jpg" group-title="SPORTS", DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://barjasetiawan.my.id/logotv/daznrise.jpg"  group-title="SPORT",  DAZN RISE
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://barjasetiawan.my.id/logotv/daznrise.jpg"  group-title="SPORTS",  DAZN RISE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://barjasetiawan.my.id/logotv/daznfast+.jpg" group-title="SPORT",  DAZN FAST+
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://barjasetiawan.my.id/logotv/daznfast+.jpg" group-title="SPORTS",  DAZN FAST+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://barjasetiawan.my.id/logotv/dazncombat.jpg" group-title="SPORT",  DAZN COMBAT
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://barjasetiawan.my.id/logotv/dazncombat.jpg" group-title="SPORTS",  DAZN COMBAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
