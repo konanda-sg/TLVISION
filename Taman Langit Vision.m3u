@@ -9802,10 +9802,10 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GTfUEnU.png" group-title="PHILIPPINES",Premier Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RPFp6p9.png" group-title="PHILIPPINES",Premier Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001135/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OWVR172.png" group-title="PHILIPPINES",Premier Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
