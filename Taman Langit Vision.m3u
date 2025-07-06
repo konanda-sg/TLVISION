@@ -1884,6 +1884,11 @@ https://cdn11jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd|Referer=https:
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
+#EXTINF:-1 group-title="INDIHOME TV" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+
 #EXTINF:-1 group-title="INDIHOME TV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -2979,6 +2984,9 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="TV NASIONAL", BTV
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/LogoBTV.png", BTV FHD
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://iili.io/28yAlAN.png" group-title="TV NASIONAL", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
@@ -6426,6 +6434,9 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjNZPmf.jpeg" group-title="TV DAERAH",BANJAR TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/db/Logo%280%29.png/revision/latest?cb=20231120154110" group-title="TV DAERAH",SANGAJI TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/y2bHfPR.png" group-title="TV DAERAH",TV TABALONG
@@ -6466,7 +6477,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Jambi_TV.png" group-title="TV DAERAH", Jambi TV
-http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream000006127.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", JEK TV
@@ -6550,19 +6561,11 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_me9iVTCfHbjOXTE-EA1QsJfzyT67L95Cg32FGiL5ssDQ=s160-c-k-c0x00ffffff-no-rj" group-title="TV DAERAH", Sriwijaya TV A
-https://aps12.playlist.ttvnw.net/v1/playlist/CrUGEgTzD-zWYp5pp9NpV7PftjPkACRRqvRk3vM1IcM8xeIjG3P8d9VFK7O4pf7nVQbJ1FZzi1c9JdfZFjwBvN60GvxlMkJp7j7-N_00MkjU0CGn9vK48uTSk3yRdoW7r7zyKgE82TcjvOGKmI7sCIYbnOLtGnFyGoAN5xfPlVP1zfgE4MkmTCzOrQzMx_bp31_ONpBEzU66Xf1ov1Lg2R6lon7Tr9vTNssU2y-d8LzPFQPq9M0HPEmE1IooCNLxfEnKpCqgYAgFGHYg5ZCsuJARlhDlDYmgFhjd78a1iBdhjdHKcCe7qq35xX7ywwXouage-h5UQpaB2OdPaih5VNow2r0ID09RWkRUukvazXIfYOrLfVYk_vJ0Kl7YkDg8AfYfrJa9_OjSmeZy0tgQvreT8NTx7WWE2DiDZpNyJXFcBFdm9tHQSsigLW9EVy4gk4l4R_PWxNyMYmwV7iiDFYFUSG41jdIQDUVBz2cTcuc9FcpXihHcvM_LzMh5k9-hUIgYJFvU_FWnap2INhuTWEfpfIy7qaBs8mzIeDlMJKaR-FmO5-xOV12bZXi7hi-su-Y37Q7ocZyrGt1Ce1CtlB9AoG0FyXexgb11372OledT2DHwuYjQk6YkwpX-_-aim5fPB9SCUWYQvjd0p8eQQLVbf6uQ1Iv55SVZRhSLDIQ0mgaUXrNjqzzkX1TCE_Mi8i5lyLqfm0lRFFDMIrjxp2J4a7xDdPMHeY7rJG_ULlsfg9tkS1N-dU6LX9s3Oztngrg-iczwtJaBLGt72lO4_X5T2L78WvLOK7jRd85Td1Ynsvt9yTQ9kGCIswnBGw6kmDG_bClaptJoA6B1b_w-kx3ysFdKkel-ynUcw5eH_3iqXD_H2YY-WWchPIg9cpjmIzLiiH3i3U_HF_-qNK0ZbFtgVIyfHMeKU-4QRZVXsKCS8UbGL5DPRfuAstzRj_tBQWWAj07fJ4tqYfK-5mPUPvpiNut0OPxQ6NjpF64CkUowI08SCnBxs1uaKP5yarlIcmeawGs4D-SqCOrA6BRIBcxMEwNFZQRm2Rz2mhtxesCy9kbKf5si2qj3pIXBB3gmj9TMVtSZ9noaDB5PYFeen3_3OtASSCABKgl1cy13ZXN0LTIwzgw.m3u8
+https://aps11.playlist.ttvnw.net/v1/playlist/CrQG-aHmKUwlb1Fzc8G78cPcKpk-xt8AL0ZNX4iaDrM6FKRjknFnuNj4eoyNy1P0vd569XVL4a1puIcd9HHK8FcaWIPabYGkSh2P6tfKOEi-I6_u5-9nEEENHzUWQ2NbdX2WW-tpE2uDIRurYxvLz7qIKArsbmPkchjDN-T2Yx39A6yP5smRthyU6n5bOxTQ0pQGDCkW47q6_3BqIihYFhu3cH7F2gdNODWh4iyXoHRtPkhl2Y6Nd9hn8qtUuBroqouNcnxrgI_aqHjLq5K6FUpdVcaGEEkSG8ny8jVUP-CycOseAkQs3OkQkBgJWM0TPhOpcOjU1HA-NzTr2dQKXKtjgiO50i6C3ngvzHgYmpD8EGyAmrQ1gHVHJafvCNDOosQwpIruSDWTTlxxIXUs-Nrz5_pQEAnjZ4mBAhdC7tuOLsf-J4RQDe_vdo4zm-sNl92ggNGXhzMbBUl83yoP84lff5_P5pdh89R6pNL7FGbafMFwU6KLkXs8694hj1E_Jf-t21-VY6qGeet7HB5eelajPFX547nGwi49_I8OesLAJGWQHKfXL8szxpACQbDTI_Ib-Fl1bDFaO8I5xuvHtRf9ifAd6nbOjjuJapVD6yHG6mZZxauWpzsQIAsuFFRanJYDtX1w7dny4ZqrYIY7aqqF37UlqPPpcBQM1pO1JB4qm2_BfppxXjcc33JD3xuOrPeYPH8qZuJjiXh91BAiqjmOJU3GysQuvtOtLCgd57ZJ0f4JWihhkTO3TSFpBWFaWV5cnIoWuHDOmDiDpcucYzqWzK_FlGkE-dOXIYtk9ncJUrrLn9cFYuqju0lqUPykrUlTBPUD-EZx3nyGjOcBKW5xJpZ-Cy-udjRsVbfmqPVSyPFZYl7x1zWUbAdoew4YCMCPsw9BBBP4vQfX3fMsFVbLNOfr4T-LBmK7AbFhS02j9Gufi6d45mqHEZjQA-gtBuqv94DD_DDk6pXulV7l3mLfgMZWPqos0gjzIlXe_lthn2BOnBV7udHpejIKB7jN4Zz4R9NnL2uWyV8pC8Z0DkB7ZtIjQRMG8qeNhbrPyVUP8pvFWM2g9Un4HJTl853kHELz1yHx4xoMKOfr7OvQGKyCAPIyIAEqCXVzLXdlc3QtMjDXDA.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_me9iVTCfHbjOXTE-EA1QsJfzyT67L95Cg32FGiL5ssDQ=s160-c-k-c0x00ffffff-no-rj" group-title="TV DAERAH", Sriwijaya TV B
-https://aps11.playlist.ttvnw.net/v1/playlist/CskGzJM2WTNN1PqJhVuqgKWitOTlxW2ZmrzsaDWXqBuuj983zjXXq2W_a_qtB76XXH9OvbqZmJwOJm-x-Y4yi7pK7_GOj9q_PBHiWfT1xLHz8ukTcbrXIkw9RQCJ5b6bXeKpbpFGKGh75XKx8dwLDZAWwGppSFrGTZCgHo6pPD_gkPg5WL4XFPBD0lAgkU8GbGJkKi8gkZ5fnZtn-LfO8FAlP8EjQQNFY7kIdwGDA5j35WxHI3RIUO8SusPf8jYINgLKAmwz0Oodln0vIWnhHmqTyvg7fge3hJLOzzI2fBMzCUGJ2E04BcfSfskDFFrFeKRBMDGYTKbzxyh2QZvOaJtm4qZzoABoS6Gnsv_PWOuiv84Jg8pT4EJMQVNwzQiBcX3l_FalZG_8qamRQ25fbDtVzcbNrgzwAbTpxIIa34wZE12aJ1CtqIKCXG0i7Ok6q7MuEE25Jw8azo8vCxqTua1749lTjSA5z_NpD9UawurExLHRVmdAe2hz1GVUxY7G2cV80G3pjdB4F3IcV7TPnzZ-YPSZfMlf0jEkF9RfBkK1rYM7ZkEqoDYcKJXRpKdGaFPa5OFHe4c8yY82ZUUYPEsh5CktSWCJV4MNBjkfSFBhpnsyMDV1USCfZYJ84Dp02lrncW5qsSbeFKo-QVf-apL-6ERZKFxWDwZqsXJncIdP39XcboPdAx9u4kxKeytx99KanIdiTMmA8P2LfeTdpZkw528774973MLGfQBAKX5MDLCe3-0_HmkCUTvnCr4SdCwMWgofYTXN1l8vvgU7CX9J1hEGSZaWa0nsdrQ0-jS111GnydGJ3cwnFlzD1nYpKXh4wq8YChO5-gjfohPoQhUpMKIUQyOOK9IJhvNizsH63Sx6bqHp018qtUg7vB9fmvhisUaNfHHjlEbXZj0zsC1YLlazGU_pdqc-jixCOk9CVK5auKeztrqXMMg6ewObm3so6xAtQ686KiITjx6dQCLN4GJ0p4wyfyJwy-h_Uk4x0Lm69tAUn_ErO9auJvZgYdXwye0bs0rPRJ9sdr6t_yq3noUCm_1_Wd5_BHMMQJUfuIfiji6lD1Win-l-SGM5XY8R9vLoqlIGNOrAXLx_yG_ikw8gdRL8GbGysBoMPIhYAMalNQ3KTGWvIAEqCXVzLXdlc3QtMjDPDA.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/39/Padang_TV_2007.png/revision/latest?cb=20231115142510" group-title="TV DAERAH", Padang TV A
-https://aps12.playlist.ttvnw.net/v1/playlist/CqUGbD41qvPOjiG-fHpWXZAaMW_gwKopi1eHMUzTHYTe7dy3cygbpsRkWbWQUc6KiMkexsIrFnRf0ohy_AhVZ4UEE0uCPyg-IeKzgcT-MeL-zllaQ3CdsxHRIbvR7xAhDY_woOUEykOw2Va_xmBMhVbC2HySh5L6KAfErVsEqz3-utvhfn2GcDbhn0JH6HBZSb61lD6anR0rvfb0qz9I2wH2kIhGanYBbfbBuQp2l6Nsxc8z137zT5RIjfPL3e0XnvrWdZrkdasoWXM_BcLifdVtKrrOhjvX_td5_KKgHQHXKzfQB4Sr976ZKeR6IK87KhzIzKw4ENsmhLVPtpagLJEXF6sVdxWlcGSxD-IhoDervlw_EKDExRPo1GCxtCmXWV1fNWwNUVmwublWS-l4VhAT8EmekEsPXURt70xPyuy8kL7AS0tIr_ALq83Gui_O8vHEU0YUb4XbO2tYzV8zuDRgSQC3nuCiCQ-FgISZxWZv99yhO-oKgVCtWrJ16CzgOR6DW_lOt5lyyO3k_UOCSIaFW8QFNLXLaGuKGvX7IEd8ttUdKwobudwsWGLwrAIcjDYNs2myc6ODnOasbK9LTMuSjBbKbrYcYEGrnw2cepBxJXJd6syQOWdmIlk21enQiLreB2kQes7Vsb_iYN6z5rtd75yaOlTeBY-nOcfU-txVHMGl3VRWUXEPMaWaKXgDWrLccbX3JPg9Gttii-wC1XJmVpll5BDzWqMTFBjQq5M6tx3lv9OqZ2VFr3X1NOSu0ehnM7RdljayBg-NJlCIjHph4vvJduhLQvxze74RfZ8P_YakJiMO68tmaE7n8qU9YrJdf-oad8tGTYxHqPPYwkKW3mwktSR8nzaSxwjKkeJLdu76IT_2UyWRj0R20Whz_fOX-4ttAGmUSWKZGpU007FJPjw9ejhWFs1F2n1B7GaqGzy8DYaiDDNpLPr2JoCSD7v55RpXQKdruK23sPKqZlEWnCC1D8bNntNCdqk8ir4qgXw--wZstLA-S_sFzKUVqI4YSyk-sJCSexhScrIjkr9qZZ1ewN-c-6Kmf2upoY2iVQqF22EZoxoM5Toj6LysOT_XYKCVIAEqCXVzLXdlc3QtMjDODA.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/39/Padang_TV_2007.png/revision/latest?cb=20231115142510" group-title="TV DAERAH", Padang TV B
-https://aps13.playlist.ttvnw.net/v1/playlist/CpkGfxJtE_f3n2E2FfPAq6tYu3LVYkUEc_fAB3djgMmxRo8ZFc3LGLTgSiacfvmvS4LfBZHLADnqirPi_LG64qMfLFnfnJUph_76cLrvXaL9KnEh3Tz7cARu8nB58FNSltTFyvvbV4-n0hwoqdYgUp1Zn8HWm48ZpHNjaLmE1JpIkZJYtuR2w76C3DBrQaObu-3Gb-Ve7edRO_83noUV8kPFTXgBT4vDXQKz7bMpO8yG8xnAGJgOkFcFHzY9HtDeORjRYMqSO4qWCZnexVpFzzrC61rUQW7x_FsF856dohZPffC41tprKUt7IMD3PkRWI1pwCxbukcgLdJv6xysvewoVn587ZTqDD27n_wx-8SlqV9BbrUDjc3wGe14mdSFMUJi1HbBhgFlUl-oP-iXXK2wfGHWxnPuAcJX81XnRKhg_ErOIK4mJDrm0fU8I6ZfViqREcSFNTk56dlJz7VSRuT_IYr_66Dtx00LlsIAprcIT0GaRdluoVq0oN5Ga0DdF5Atxk0AciwO3ghvBVf0-bsvagTAFmuAewTQy5niXXHkr8_6xmfwWNKt19Z2SLKc6OYFqnb79aVrab_abEAIm9fU9teUTx5IcwvzEdFhstbpaG4yuZQMwicDwk3jtRrmwIhdMAxZIjYmEggS6q3hi7lUTocx6MabnIoJ-9N69oRXmNc_FNz7UacEyjG75SQ4xNdmTO0dto93Ety3CETtoSHRz4ili2mY--e2vXPLEzaPqoMr3mKSWrP6WqwuUOwvC6L6ambsWWY4-HvCExyRZglsiAUaSGdSyGZzinpRLnuFMIVDzjbxzfsgUeVgu5RLqm1SbD5Ze2iDIFPvo2LswIxvvfojl7XKbCwjxcCZVqXXpA5Q5pmy6jTPvmm_FdJpVKc4IoM2yZsrgIeFbRZs-6WrwnLz1r6Yb1YcvgYQJs6LN7TxtQHLa7dfU5qdkIj5fEAZn0EdKClY7Mn-boKpmcSM2_a0zz4JPlTWKjAc_5FpueYJT3ELFsIpq11py9kyP5PavYsTRWmDriLOCepGYYrIVAv3oqITVwdb-ABoMGQ_25vOgkchdzbSgIAEqCXVzLXdlc3QtMjDPDA.m3u8
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/39/Padang_TV_2007.png/revision/latest?cb=20231115142510" group-title="TV DAERAH", Padang TV
+https://aps12.playlist.ttvnw.net/v1/playlist/CokGKrQ4agtoD3Mu5UnLoyn0a-0MbzhA6efu6v_fVav6pDIVJrn6AVDn-rFXEijgcbZ-Q9wlV4OIJ0HHrdH5nVnx7GIDcb99OIBC3zEytVi5_PvP2t-qCfAYNQ_-PH0hTqpFblzkKWUtD6_jkhAGNGfoFYzA_K3p_SKWOCMcWYdxcWZCSW5EGBxXDNFZMvzNL4Ug6J4OUoGa9JmulWwktroFg9Suw3xF_CFnmlWZHqUnwxb_y84O7vStDlkSvaSx_4aKdSZXO7bUAhSeCST2xlpkLitM9u5gli-pcUqe0SoIthXuH_25dqNHNjPHdGZrnEj1-xw20vWfXj0SWuc7pqLwywcwg1G_ZgrdjrMpb3DrfoP0AIxqRKTyXUQhPHNNfhPGguiTXHxPnE4158UhK8rWlvWoqy2JUWReQUMMFdtussKhI_COdHDPwGqP8SkzLJw-bsAbu1kR_9xg2JaUbulz_J2MDJooqZETEubWvw2DCZZOshLA1mDdBp8eaqI1T9jaiZflYruk64uS4emw1cfuDQiKkzTl7JKgosqddJo6CsqkFZRApopDoC00wXgnl564Gl3WtCM7tQLCIGI84A3ymSlQ1Wk7ZhFrOiF0hHzXIkm8Mwq7folQNz2cL_cKDJIuBioPUPdNG5XKSM6HzMNWM5k59J30-VQ8zYBceaGMHfb84UXbeV3uJz7M-MLwS2Tqs2oMEs2Lc00B-atKPDFtrUNFr4McVho636C528SbFJwYgd5wwJ0UZAJ3EufFgzFrDax-p9E26FQfLX8DiDwyyFARqgY49ovXHxM5IPKe9c14ZJQ78Ul8DJyJCO41MB1dmyH-QJ39bhmDxROxEzs427bOQRp97CIkMYI4zKAJTipd9pAxkDuy-aiQY3cPkt75iFWvDWV3OTto0d1NrueWIQawx4StU_JjFkQK5yU4LilwZqqYzHLg4wg8UeRRnM3tJOOjcac_bnGZFpItJ8mUKjv7Hro1SeSd8d9xg_Tdk6fEr7pEp0poArqLoQ9Y8HFne3cTLhDfmDmSGgwmsDEcM3NZSUz9ib0gASoJdXMtd2VzdC0yMNcM.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
