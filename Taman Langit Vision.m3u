@@ -9942,17 +9942,3 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 ##################################################################################################################
-MISWA TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T2LvUaI.png" group-title="",CLTV 36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-"category": "local-tv",
-      "name": "Aliw Channel",
-      "epg_id": "",
-      "drm_type": "clearkey",
-      "drm_key": "31363232303137373937323535313836:3551344768323677674c32704a713249",
-      "icon": "https://i.imgur.com/ZZ9jEoa.png",
-      "url": "http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com"
