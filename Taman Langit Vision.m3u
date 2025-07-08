@@ -7223,6 +7223,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD
 #EXTINF:-1 tvg-id="ShowcaseMovies.my" tvg-name="Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-logo="https://iili.io/H7B4QYF.png" group-title="MOVIES",Showcase Movies (VPN SG)  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://id.wikipedia.org/wiki/Berkas:Astro_2024_logo.svg" group-title="ASTRO MALAYSIA"
   
 #EXTINF:-1 tvg-id="HITS" ch-number="706" tvg-name="HITS HD" group-title="ASTRO MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
