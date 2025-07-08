@@ -219,7 +219,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/INSERT.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VSye7d0.png" group-title="05 TRANSVISION", !NSERT
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
