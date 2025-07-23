@@ -6578,7 +6578,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M1W8rYc.png" channel-number="" group-title="",Astro Showcase
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M1W8rYc.png" channel-number="" group-title="MOVIES",Astro Showcase
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
