@@ -556,144 +556,144 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/ind
 
 OXYGEN TV
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-pr2xL0wxhRYcR4MjDax1M66clMKOxB6Ob3PVYI41IH8H9uGQr_7ci4N&s=10" group-title="Oxygen TV"
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",ANTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-pr2xL0wxhRYcR4MjDax1M66clMKOxB6Ob3PVYI41IH8H9uGQr_7ci4N&s=10" group-title="OXYGEN TV"
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",ANTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=antv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",VTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",VTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=vtv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",MENTARI TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",MENTARI TV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=mentaritv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",BERITA SATU
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",BERITA SATU
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=beritasatu
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",GARUDA TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",GARUDA TV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=garudatv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",KOMPAS TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",KOMPAS TV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=kompastv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",METRO TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",METRO TV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=metrotv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",TRANS7
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",TRANS7
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=trans7
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",TRANSTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",TRANSTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=transtv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",TVONE
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",TVONE
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=tvone
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",INEWSTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",INEWSTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=inews
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",RTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",RTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=rtv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",BTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",BTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=btv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",KTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",KTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=ktv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",NUSANTARATV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",NUSANTARATV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=nusantaratv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",TVRI
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",TVRI
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=tvri
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",TVRI Sport
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",TVRI Sport
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=tvrisport
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",TAWAFTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",TAWAFTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=tawaftv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",JAKTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",JAKTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=jaktv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",JPM
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",JPM
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=jpm
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",JITV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",JITV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=jitv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",DAAITV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",DAAITV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=daaitv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",RODJATV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",RODJATV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=rodjatv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",NHK WORLD
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",NHK WORLD
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=nhkworld
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",ARIRANG WORLD
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",ARIRANG WORLD
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=arirangworld
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",TV5 Monde
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",TV5 Monde
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=tv5monde
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",France 24
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",France 24
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=france24
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",Fashion TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",Fashion TV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=fashiontv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",Edge Sport
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",Edge Sport
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=edgesport
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",SALAMTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",SALAMTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=salamtv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",Qur'anTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",Qur'anTV
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=qurantv
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",Al Jazeera
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",Al Jazeera
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=aljazeera
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",Bloomberg
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",Bloomberg
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=bloomberg
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",CGTN
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",CGTN
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=cgtn
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",Channel News Asia
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",Channel News Asia
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=channelnewsasia
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",CNBC
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",CNBC
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=cnbc
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",Euro News
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",Euro News
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=euronews
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",TRT World
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",TRT World
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=trtworld
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",TVBS
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",TVBS
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=tvbs
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",CCTV 4 Asiaa
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",CCTV 4 Asiaa
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=cctv4asia
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",CGTN Documentary
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",CGTN Documentary
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=cgtndocumentary
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",Lotus Macau
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",Lotus Macau
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=lotusmacau
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",Kids Zone Plus
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",Kids Zone Plus
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=kidszoneplus
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",EBS Kids
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",EBS Kids
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=ebskids
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",ToonMax
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",ToonMax
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=toonmax
-#EXTINF:-1 tvg-logo="" group-title="Oxygen TV",SpaceToon
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="" group-title="OXYGEN TV",SpaceToon
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=spacetoon
 
 DENS TV
@@ -2251,7 +2251,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=li
 https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="INDONESIA (NASIONAL)",Garuda TV (oxygen)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=garudatv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="INDONESIA (NASIONAL)",TV Kesehatan
@@ -2359,9 +2359,9 @@ http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="INDONESIA (NASIONAL)", Nusantara TV (DENS TV)
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
-#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="INDONESIA (NASIONAL)", Oxygen TV
+#EXTINF:-1 tvg-id="" tvg-name="OXYGEN TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="INDONESIA (NASIONAL)", OXYGEN TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8|referer=https://oxygentv.id/&origin=https://oxygentv.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -2472,7 +2472,7 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-m.png" group-title="INDONESIA (NASIONAL)",ANTV (oxygen)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=antv
 
 #EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="INDONESIA (NASIONAL)", TVRI SPORT A
@@ -2487,7 +2487,7 @@ http://198.16.100.186:8278/TVRI/playlist.m3u8?tid=MBEB3773542337735423&ct=19249&
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=NetTV
 
 #EXTINF:-1 tvg-id="KompasTV.id"  tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-m.png" group-title="INDONESIA (NASIONAL)",KOMPAS TV (oxygen) 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=kompastv
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-m.png" group-title="INDONESIA (NASIONAL)",METRO TV HD
@@ -2497,7 +2497,7 @@ https://why.biz.id/Iptv/oxygen.php?id=kompastv
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-m.png" group-title="INDONESIA (NASIONAL)",METRO TV (oxygen)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=metrotv
 
 #EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="INDONESIA (NASIONAL)", TVONE (u)
@@ -2505,7 +2505,7 @@ https://why.biz.id/Iptv/oxygen.php?id=metrotv
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/783/file/dash/783_stream.mpd?hdntl=exp=1750859255~acl=%2fstream%2f783%2ffile%2f*~id=allUsers~data=hdntl~hmac=eed4b1b27576caecd4f668f7d4417dc37b365c9db30d6547f6fd4cc67449bde3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTgdH72m411G49A1Whs5WJASbLfpFTWuy5M_lOoG3bRD_BDXpOhvLRT4&s=10" group-title="INDONESIA (NASIONAL)",MENTARI TV (oxy)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=mentaritv
 
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-m.png" group-title="INDONESIA (NASIONAL)",iNEWS HD
@@ -2519,7 +2519,7 @@ https://why.biz.id/Iptv/oxygen.php?id=mentaritv
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-m.png" group-title="INDONESIA (NASIONAL)",iNews (oxy)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=inews
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/tvone.png" group-title="INDONESIA (NASIONAL)", TVONE  (08 INDIHOME TV)
@@ -2532,7 +2532,7 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/030/50030-SNAPSHOT-m.png" group-title="INDONESIA (NASIONAL)",BTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=btv
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/986/49986-SNAPSHOT-m.png" group-title="INDONESIA (NASIONAL)",JAK TV
@@ -2550,7 +2550,7 @@ https://hs-cors.herokuapp.com/https://cdn14jtedge.indihometv.com/dvr/139/nusanta
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1712984211_b878000_sleng.m3u8
 
 #EXTINF:-1 group-title="INDONESIA (NASIONAL)" tvg-id="IDTV.id" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",BERITA SATU (oxygen)
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=beritasatu
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -5943,7 +5943,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36729.ts
 
 #EXTINF:-1 group-title="KIDS / ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV 🟣
 https://flv.intechmedia.net/live/ch107.m3u8
-https://why.biz.id/Iptv/oxygen.php?id=vtv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=vtv|user-agent=OXYGEN TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/DeiKIDS / ANAKTv%20.png" group-title="KIDS / ANAK" ,DEI KIDS / ANAK TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
