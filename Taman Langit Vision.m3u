@@ -2370,3 +2370,266 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8|referer=https:
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI World" tvg-logo="https://iili.io/JV3xmPe.png" group-title="INDONESIA (NASIONAL)", TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|referer=https://klik.tvri.go.id/&user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 ##########################################################################################
+DIGITAL TV
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQviT7HvfFoz4u81nw2ggRsf0XbCVyWARd4tw&s" group-title="DIGITAL TV"
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",TVRI National
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=TVRI
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",RCTI
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Rcti
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Kompass TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Kompass
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Berita Satu
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=BeritaSatu_eko
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Indosiar HD
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Indosiar
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",AnTV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Antv
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",MNC TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Mnctv
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Trans 7
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Trans7_eko
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Transtv
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Transtv
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",JTV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=JTV_eko
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Metro TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=metrotv_eko
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Cinemax
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Cinemax
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",SCTV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=SCTV
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Tvone
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Tvone
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",TVMU
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=TVMU_eko
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",GTV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Gtv
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",RTV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Rtv
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Jak TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=JakTV
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",iNews TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Inewstv
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Daai TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=DaaiTV
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",MDTV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=NetTV
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Animax
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Animax
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",EWTN
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Ewtn
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",AlQuran AlKareem
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=AlQuran
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Tawaf TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=TawafTV
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Vision Prime
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=VisionPrime
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Muslim TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=MuslimTV
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Music TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=MusicTV
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Lifestyle&Fashion
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Lifestyle
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Entertain
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Entertain
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Hits
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Hits
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Warner TV
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=WarnerTV
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",SCM
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Weishimovie
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Thrill
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Thrill
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Fight Sports
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Fs
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Beinsports 2 HD
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Bein2hd
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Hits Movie
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Hitsmovie
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",One
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=One_mega
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",tvN Movie
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Tvnmovie
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Celestial Movies HD
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Celestialindo
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Rock Actions
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Rockaction
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="XXX",Rock Entertainment
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Rockentertain
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgH6WuOQSByQ6v2MMZBoI7aK8mG3Pn75WWcg&usqp=CAU" group-title="DIGITAL TV", BIOSKOP INDONESIA
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/BioskopIndonesia.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHw_gY1EXEED5yM4Z3LKYCAPmlWdEjzZyNQ&usqp=CAU" group-title="DIGITAL TV", FLIK
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/Flik.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="DIGITAL TV", INDOSIAR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/indosiarTV3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzvFa290X6Yq2mMtxyw4qNLaXQNTyJ7UbKA&usqp=CAU" group-title="DIGITAL TV", SCTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/sctvTV3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="DIGITAL TV",MOJI 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/mojiTV3.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TRANSTV.png" ,TRANS TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/3
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TRANS7.png" ,TRANS 7
+http://iptv.kilas7.com:80/kaukia/asdfrewq/4
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TVONE_TV.png" ,TV ONE
+http://iptv.kilas7.com:80/kaukia/asdfrewq/5
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/METRO.png" ,METRO TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/6
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/AN_TV.png" ,ANTV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/7
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TV_RI.png" ,TVRI
+http://iptv.kilas7.com:80/kaukia/asdfrewq/8
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/KOMPAS.png" ,KOMPAS TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/10
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/DAAI.png" ,DA AI
+http://iptv.kilas7.com:80/kaukia/asdfrewq/11
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CNN_INDO.png" ,CNN INDONESIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/12
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CNBC.png" ,CNBC INDONESIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/13
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/NET.png" ,MDTV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/14
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/RRINET.png" ,RRI-NET
+http://iptv.kilas7.com:80/kaukia/asdfrewq/15
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/KILAS7.png" ,KILAS 7
+http://iptv.kilas7.com:80/kaukia/asdfrewq/16
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/PB_TV.png" ,PBTV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/17
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CNA.png" ,CHANNEL NEWS ASIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/18
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL_8_HD.png" ,CHANNEL 8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/19
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/VAS.png" ,VASHANTAM
+http://iptv.kilas7.com:80/kaukia/asdfrewq/20
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL_U.png" ,CHANNEL U
+http://iptv.kilas7.com:80/kaukia/asdfrewq/21
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL_5_HD.png" ,CHANNEL 5
+http://iptv.kilas7.com:80/kaukia/asdfrewq/22
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/SURIA_HD.png" ,SURIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/23
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_INFO.png" ,PHOENIX INFONEWS
+http://iptv.kilas7.com:80/kaukia/asdfrewq/35
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_CH.png" ,PHOENIX CHINESE
+http://iptv.kilas7.com:80/kaukia/asdfrewq/36
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_HK.png" ,PHOENIX HONGKONG
+http://iptv.kilas7.com:80/kaukia/asdfrewq/37
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/XINGKONG.png" ,XING KONG
+http://iptv.kilas7.com:80/kaukia/asdfrewq/38
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL-V.png" ,CHANNEL V CHINA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/39
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CCTV-4.png" ,CCTV 4
+http://iptv.kilas7.com:80/kaukia/asdfrewq/40
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CGTN.png" ,CGTN
+http://iptv.kilas7.com:80/kaukia/asdfrewq/41
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CGTN_DOCUMENTARY.png" ,CGTN DOCUMENTARY
+http://iptv.kilas7.com:80/kaukia/asdfrewq/42
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/ZHEJIANG.png" ,ZHE JIANG
+http://iptv.kilas7.com:80/kaukia/asdfrewq/43
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/ARIRANG_TV.png" ,ARIRANG
+http://iptv.kilas7.com:80/kaukia/asdfrewq/44
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TV5MONDE.png" ,TV 5 MONDE
+http://iptv.kilas7.com:80/kaukia/asdfrewq/45
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/ALJAZEERA.png" ,ALJAZEERA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/46
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/DW.png" ,DW
+http://iptv.kilas7.com:80/kaukia/asdfrewq/47
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/RUSSIA_TODAY.png" ,RUSSIA TODAY
+http://iptv.kilas7.com:80/kaukia/asdfrewq/48
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/NHK_WORLD.png" ,NHK WORLD
+http://iptv.kilas7.com:80/kaukia/asdfrewq/49
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/FASHION_TV_HD.png" ,FASHION TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/50
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TOONMAX_TV.png" ,TOONMAX
+http://iptv.kilas7.com:80/kaukia/asdfrewq/71
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/DONGFANG_TV.png" ,DRAGON TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/72
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/HUNAN.png" ,HUNAN TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/82
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/GOLDEN-EAGLE.png" ,GOLDEN EAGLE CARTOON
+http://iptv.kilas7.com:80/kaukia/asdfrewq/83
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CCTV-11.png" ,CCTV 11
+http://iptv.kilas7.com:80/kaukia/asdfrewq/89
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CCTV-15.png" ,CCTV 15
+http://iptv.kilas7.com:80/kaukia/asdfrewq/90
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/CCTV-13.png" ,CCTV 13
+http://iptv.kilas7.com:80/kaukia/asdfrewq/91
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/abc-news.png" ,ABC News
+http://iptv.kilas7.com:80/kaukia/asdfrewq/94
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/BLOOMBERG.png" ,bloomberg
+http://iptv.kilas7.com:80/kaukia/asdfrewq/96
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TV1_MY.png" ,TV 1 MALAYSIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/24
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TV2_MY.png" ,TV 2 MALAYSIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/25
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" ,TV 3 MALAYSIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/26
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TV7_MY.png" ,TV 7 MALAYSIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/27
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TV8.png" ,TV 8 MALAYSIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/28
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TV9_MY.png" ,TV 9 MALAYSIA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/29
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/RTM_NEWS_MY.png" ,RTM BERITA
+http://iptv.kilas7.com:80/kaukia/asdfrewq/30
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/RTM_SPORT_MY.png" ,RTM SPORT
+http://iptv.kilas7.com:80/kaukia/asdfrewq/31
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/TV_OKEY_MY.png" ,OKEY TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/32
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/ALHIJRAH_MY.png" ,TV ALHIJRAH
+http://iptv.kilas7.com:80/kaukia/asdfrewq/33
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://tv.cic.net.id/uploads/BERNAMA_MY.png" ,BERNAMA TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/34
+#EXTINF:-1 group-title="DIGITAL TV" ,BETV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/263
+#EXTINF:-1 group-title="DIGITAL TV" ,RBTV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/264
