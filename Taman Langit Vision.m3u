@@ -6696,3 +6696,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43379&uid=9444&deviceMac=00:1A:79:A4:
 
 #EXTINF:-1 MOVIE CHANNEL group-title="INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWT3E5CkQymiBmf2QgwOwGwwTDmYjMIDaVjhi3YdDFjVvVL2SBqwZeU1j7&s=10",Zee TV
 http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=9444&deviceMac=00:1A:79:A4:07:6A
+
+#EXTINF:-1 MOVIE CHANNEL group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2D5KtbdSJbpPdcIxlAAZ5oulF47JoYdeDePmKebxAMCBEiLvpCXkxCA&s=10",Hollywood Movies
+https://movies.nexg.tv/movie-h/movie-h.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.shutterstock.com/image-vector/abstract-letter-k-logo-negative-260nw-403225240.jpg" MOVIE CHANNEL,K-Cinema
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
