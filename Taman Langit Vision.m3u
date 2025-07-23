@@ -2451,7 +2451,7 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/6
 http://iptv.kilas7.com:80/kaukia/asdfrewq/7
 #EXTINF:-1 group-title="DVB T2 Playlist" tvg-logo="https://tv.cic.net.id/uploads/TV_RI.png" ,TVRI
 http://iptv.kilas7.com:80/kaukia/asdfrewq/8
-#EXTINF:-1 group-title="DVB T2 PlaylistV" tvg-logo="https://tv.cic.net.id/uploads/KOMPAS.png" ,KOMPAS TV
+#EXTINF:-1 group-title="DVB T2 Playlist" tvg-logo="https://tv.cic.net.id/uploads/KOMPAS.png" ,KOMPAS TV
 http://iptv.kilas7.com:80/kaukia/asdfrewq/10
 #EXTINF:-1 group-title="DVB T2 Playlist" tvg-logo="https://tv.cic.net.id/uploads/DAAI.png" ,DA AI
 http://iptv.kilas7.com:80/kaukia/asdfrewq/11
@@ -2461,7 +2461,7 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/12
 http://iptv.kilas7.com:80/kaukia/asdfrewq/13
 #EXTINF:-1 group-title="DVB T2 Playlist" tvg-logo="https://tv.cic.net.id/uploads/NET.png" ,MDTV
 http://iptv.kilas7.com:80/kaukia/asdfrewq/14
-#EXTINF:-1 group-title="DVB T2 PlaylistV" tvg-logo="https://tv.cic.net.id/uploads/RRINET.png" ,RRI-NET
+#EXTINF:-1 group-title="DVB T2 Playlist" tvg-logo="https://tv.cic.net.id/uploads/RRINET.png" ,RRI-NET
 http://iptv.kilas7.com:80/kaukia/asdfrewq/15
 #EXTINF:-1 group-title="DVB T2 Playlist" tvg-logo="https://tv.cic.net.id/uploads/KILAS7.png" ,KILAS 7
 http://iptv.kilas7.com:80/kaukia/asdfrewq/16
