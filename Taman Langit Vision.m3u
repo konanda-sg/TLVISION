@@ -6637,20 +6637,20 @@ http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=9444&deviceMac=00:1A:79:A4:
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyeK0f9i1SvF_3GHxbYemrVI_K-vFC9TOeSQCAlbsuQ-2n6m0wR1PCMQ&s=10",&Xplor hd
 http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
-#EXTINF:-1 group-title="MOVIE CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLBR4je-yGG1Iu9BwyCgH00gaLvfgDO30ek5TvPcx9_jpDpHUad9Fj2Bc4&s=10",&Pictures hd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLBR4je-yGG1Iu9BwyCgH00gaLvfgDO30ek5TvPcx9_jpDpHUad9Fj2Bc4&s=10",&Pictures hd
 http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
-#EXTINF:-1 group-title="MOVIE CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxjqA216BMp8SZ7t4TKtwg4TxPhTXVMkKaZrop0SV5FvEIiHIcu3zjP3M&s=10",&TV hd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxjqA216BMp8SZ7t4TKtwg4TxPhTXVMkKaZrop0SV5FvEIiHIcu3zjP3M&s=10",&TV hd
 http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
-#EXTINF:-1 group-title="MOVIE CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4XxcaFeDYqcri-qXn55mFAYLRubm4JhnTQFUtztoYIHvbQUVB2Va9YQz&s=10",COLORS
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4XxcaFeDYqcri-qXn55mFAYLRubm4JhnTQFUtztoYIHvbQUVB2Va9YQz&s=10",COLORS
 http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
-#EXTINF:-1 group-title="MOVIE CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgLzWuX__4prHkDPob8QjaGMjIH5X8GpYKZN7h4kueoeoiHETO_mHSyJd&s=10",Color CinePlex Bollywood
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgLzWuX__4prHkDPob8QjaGMjIH5X8GpYKZN7h4kueoeoiHETO_mHSyJd&s=10",Color CinePlex Bollywood
 http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
-#EXTINF:-1 group-title="MOVIE CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xUJv5TY7R9LJssWLSVUoGFwXzUGFAwdsdw&s",Color CinePlex
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xUJv5TY7R9LJssWLSVUoGFwXzUGFAwdsdw&s",Color CinePlex
 http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
-#EXTINF:-1 MOVIE CHANNEL tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies HD
+#EXTINF:-1 MOVIE CHANNEL group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=9444&deviceMac=00:1A:79:A4:07:6A
