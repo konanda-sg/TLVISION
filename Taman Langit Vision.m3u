@@ -2373,9 +2373,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|referer=ht
 DVB T2 Playlist
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQviT7HvfFoz4u81nw2ggRsf0XbCVyWARd4tw&s" group-title="DIGITAL TV"
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="XXX",CINEMAX TW
-http://mudokato66.putapapaya66.uk/stv-nosession.php?id=cinemax_twn
-
 #EXTINF:-1 group-title="DVB T2 Playlist" tvg-logo="XXX",RCTI
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Rcti
 
@@ -4983,14 +4980,23 @@ https://b20a340953e24055b6a4736ab4605f23.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://leganerd.com/wp-content/uploads/2020/09/rakuten-tv-ottobre-2020.jpg" group-title="RAKUTEN TV", Documentary+
 https://0a2dd7d74cfa42c5aa476d3b6aecd12f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_DocumentaryPlus/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4073&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=18f151cc-d797-458e-80ca-202b43fe782e&ads.user_type=visitor&ads.wurl_channel=965
 #######################################################################################################################################
-#EXTINF:-1 group-title="MOVIES" tvg-logo="XXX",HBO TW
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="XXX",HBO TW
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=hbohd_twn
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="XXX",Hollywood
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="XXX",Hollywood
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=hollywoodmovies_twn
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="XXX",AXN TW
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="XXX",AXN TW
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=axn_twn
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="XXX",sanlixiju_twn
-http://mudokato66.putapapaya66.uk/stv-nosession.php?id=sanlixiju_twn
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="XXX",SET
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=sanlixiju_tw
+
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="XXX",CINEMAX TW
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=cinemax_twn
+
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="XXX",GTV Drama
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=badadrama
+
+#EXTINF:-1 group-title="TAIWAN" tvg-logo="XXX",æ„›çˆ¾é”å½±åŠ‡å°
+http://mudokato66.putapapaya66.uk/stv-nosession.php?id=eltayingju_twn
