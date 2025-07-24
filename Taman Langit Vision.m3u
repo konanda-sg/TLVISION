@@ -8016,7 +8016,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SUN%20TV.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Suntv
 ###########################################################################################################
-#EXTINF:0 tvg-id="1" tvg-logo="https://i.imgur.com/Ti5Muhk.jpg" group-title="MOVIS",ETV BIOSKOP
+#EXTINF:0 tvg-id="1" tvg-logo="https://i.imgur.com/Ti5Muhk.jpg" group-title="MOVIES",ETV BIOSKOP
 https://WahyuIPTV.short.gy/ETVBioskop1.ts
 
 #EXTINF:0 tvg-id="1" tvg-logo="https://i.imgur.com/Ti5Muhk.jpg" group-title="MOVIES",ETV BIOSKOP 2
