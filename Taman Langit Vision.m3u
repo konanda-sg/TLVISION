@@ -2421,7 +2421,7 @@ http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Weishimovie
 #EXTINF:-1 group-title="MOVIES" tvg-logo="XXX",Rock Actions
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Rockaction
 
-#EXTINF:-1 group-title="ENTERTAINTMENT" tvg-logo="XXX",Rock Entertainment
+#EXTINF:-1 group-title="ENTERTAINMENT & LifeStyle" tvg-logo="XXX",Rock Entertainment
 http://mudokato66.putapapaya66.uk/stv-nosession.php?id=Rockentertain
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="DVB T2 Playlist", INDOSIAR 3
@@ -7864,7 +7864,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTSA", ASTRO GRANDSTAND
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS", ASTRO GRANDSTAND
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 
@@ -8721,7 +8721,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hWQBUvT.png" channel-number="" group-title="ENTERTAINMENT",Dateline
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hWQBUvT.png" channel-number="" group-title="ENTERTAINMENT & LifrStyle",Dateline
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
