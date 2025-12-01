@@ -10,6 +10,39 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvsystem.my.id/img/RCTI.png" group-title="CHANNEL | INDONESIA", RCTI Live Sports
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",INDOSIAR SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+#https://popmi.my.id/tes.m3u8?id=205
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvsA0eX0cYe_h_rs0Kq5EzuceKR9ebt0KLkdunqy3HnNSp9hEI5HGzYO9omOJNdXREpDP3Pv2iUh6p0Og761HTBAZDc6OAelCOnwkR2n9s-qqUBdv_71jMhSV24i8tIZn0aiDaP4_tXRkwKeSMIJoMW2H1MBPbeImXFPvchRoQPyxRq3SNw-6olichhXKj/s700/MOJI.png",VOLI SPORT
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
+#https://spacetv.my.id/index.mpd?id=19488&type=dash
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/maumalingya.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="CHANNEL | INDONESIA",SCTV INDI
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2403UeJ10gquJWdTP361RZdej2P0DW9NroMYfw2uoQxFudZXNNVxKEs14W2RLdtzWdTGCPwCu-AYHUhNUZmgjTAUl4mqI0iHytsS4xzG5DS5tdPcNtHfBczSI8NIpaVzcG2YCZ5UQ-dR657pDeR1sIYzMfCvyWf2mOwZcEoedissuV4Q9yh2QqZYWJ-ob/s700/TV%20PARLEMEN.png" group-title="NASIONAL",TVR PARLEMEN
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
 #EXTINF:-1 group-logo="" tvg-id="" tvg-name="" tvg-logo="https://iptvsystem.my.id/img/gtv.png" group-title="CHANNEL | INDONESIA", GTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -321,23 +354,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTINF:-1 tvg-id="--" group-title="INDIHOME TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Trans TV
 https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="INDIHOME" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Moji TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 tvg-id="--" group-title="INDIHOME" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/IndiHome_TV_%282023%29.png/1200px-IndiHome_TV_%282023%29.png", Musik Indonesia
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
-
 ===================================================================
+
+
+
+
+
 VISION +
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR-JWMzbXDSodP2yTymzGOqmxqWkwF8iRwH_RJJMyMCxrIqmeCm_AtgslclbicXHlHXSXnb6YDXAx3NlSKzzyYtnPWZqe2mBXzrRG1aIqOco-BuG1FTSCWut8CjjhmilZh3dQAKNukTV4Z-Vrioj1niPYUKvVCQNYBaeombDmFYpAMdZnq_RyyUfnh/s800/GKL42_Vision_Plus%20-%20Koleksilogo.com.jpg" group-title="VISION +"
@@ -904,9 +926,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
 
 ##### TVRI #####
-
-
-
 
 #EXTINF:-1 group-title="TVRI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
 https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
