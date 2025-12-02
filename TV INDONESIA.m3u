@@ -1,7 +1,3 @@
 #EXTM3U
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12132
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 group-title="OLAHRAGA",BEIN 3 AUS
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 AU" group-title="OLAHRAGA",BEIN SPORTS 3 AU
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
