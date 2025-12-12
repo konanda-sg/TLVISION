@@ -602,13 +602,13 @@ ________________________________________________________________________________
 
 TV NASIONAL
 
-#EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="TV NASIONAL",RCTI HD
+#EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="TV NASIONAL",RCTI (Indihome TV)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
 
-#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="TV NASIONAL",MNC TV
+#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="TV NASIONAL",MNC TV (Indihome TV)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mnctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV NASIONAL",GTV
+#EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV NASIONAL",GTV (Indihome TV)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -642,4 +642,18 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204type=drm
 #EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="TV NASIONAL",SCTV (Vidio)
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046type=drm
+#EXTINF:-1 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="TV NASIONAL" ,SINPO TV (Vidio)
+###https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
+
+#EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="TV NASIONAL" ,SINPO TV
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
 
